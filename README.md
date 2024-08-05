@@ -1,7 +1,7 @@
 **End-to-End ETL Project: Sales Analysis**
 
 •	**Data Extraction**: 
-*	Extracted data from the Kaggle API using Python.*
+*Extracted data from the Kaggle API using Python.*
 
 •	**Data Transformation:**
 *Cleaned and transformed the extracted data using Python.*
